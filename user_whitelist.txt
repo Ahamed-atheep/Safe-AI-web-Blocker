@@ -1,0 +1,7 @@
+# User-specific whitelist
+# Add domains you trust, one per line
+# Lines starting with # are comments
+
+# Example entries (remove these and add your own):
+# example-safe-site.com
+# trusted-domain.org

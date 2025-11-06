@@ -1,0 +1,149 @@
+[
+  {
+    "hostname": "main.vscode-cdn.net",
+    "blocked": false,
+    "reason": "Background pattern: cdn",
+    "confidence": 0.8139667257303815,
+    "timestamp": 1756402419.2526667
+  },
+  {
+    "hostname": "edge.microsoft.com",
+    "blocked": false,
+    "reason": "Subdomain of microsoft.com",
+    "confidence": 0.8086541337231627,
+    "timestamp": 1756402422.5652494
+  },
+  {
+    "hostname": "lh3.googleusercontent.com",
+    "blocked": false,
+    "reason": "Low confidence or safe (0.90)",
+    "confidence": 0.899198860230872,
+    "timestamp": 1756402425.8203354
+  },
+  {
+    "hostname": "accounts.google.com",
+    "blocked": false,
+    "reason": "Subdomain of google.com",
+    "confidence": 0.8383089996489278,
+    "timestamp": 1756402426.299953
+  },
+  {
+    "hostname": "ssl.gstatic.com",
+    "blocked": false,
+    "reason": "Subdomain of gstatic.com",
+    "confidence": 0.917892964853134,
+    "timestamp": 1756402429.9803042
+  },
+  {
+    "hostname": "ntp.msn.com",
+    "blocked": false,
+    "reason": "Low confidence or safe (0.90)",
+    "confidence": 0.8997121366329222,
+    "timestamp": 1756402433.8513055
+  },
+  {
+    "hostname": "bing.com",
+    "blocked": false,
+    "reason": "Low confidence or safe (0.90)",
+    "confidence": 0.8986477451961005,
+    "timestamp": 1756402434.5854669
+  },
+  {
+    "hostname": "c.msn.com",
+    "blocked": false,
+    "reason": "Low confidence or safe (0.92)",
+    "confidence": 0.9165981399136822,
+    "timestamp": 1756402434.5918746
+  },
+  {
+    "hostname": "img-s-msn-com.akamaized.net",
+    "blocked": false,
+    "reason": "Low confidence or safe (0.58)",
+    "confidence": 0.5784728780033254,
+    "timestamp": 1756402434.7334454
+  },
+  {
+    "hostname": "edge-consumer-static.azureedge.net",
+    "blocked": false,
+    "reason": "Background pattern: static",
+    "confidence": 0.6679225483510538,
+    "timestamp": 1756402452.38154
+  },
+  {
+    "hostname": "edge.microsoft.com",
+    "blocked": false,
+    "reason": "Subdomain of microsoft.com",
+    "confidence": 0.8086541337231627,
+    "timestamp": 1756402454.540382
+  },
+  {
+    "hostname": "fonts.gstatic.com",
+    "blocked": false,
+    "reason": "System whitelist",
+    "confidence": 0.9349069815239411,
+    "timestamp": 1756402479.5117073
+  },
+  {
+    "hostname": "edge.microsoft.com",
+    "blocked": false,
+    "reason": "Subdomain of microsoft.com",
+    "confidence": 0.8086541337231627,
+    "timestamp": 1756402482.4766645
+  },
+  {
+    "hostname": "youtube.com",
+    "blocked": false,
+    "reason": "System whitelist",
+    "confidence": 0.9354869485379707,
+    "timestamp": 1756402483.944267
+  },
+  {
+    "hostname": "rr3---sn-q4fl6nds.googlevideo.com",
+    "blocked": false,
+    "reason": "Subdomain of googlevideo.com",
+    "confidence": 0.9159667878315949,
+    "timestamp": 1756402486.4890926
+  },
+  {
+    "hostname": "google.com",
+    "blocked": false,
+    "reason": "System whitelist",
+    "confidence": 0.981728238701,
+    "timestamp": 1756402486.812237
+  },
+  {
+    "hostname": "google.co.in",
+    "blocked": false,
+    "reason": "Low confidence or safe (0.93)",
+    "confidence": 0.9340917391640275,
+    "timestamp": 1756402487.4910028
+  },
+  {
+    "hostname": "mobile.events.data.microsoft.com",
+    "blocked": false,
+    "reason": "Subdomain of microsoft.com",
+    "confidence": 0.672401009782764,
+    "timestamp": 1756402519.4804068
+  },
+  {
+    "hostname": "github.com",
+    "blocked": false,
+    "reason": "Low confidence or safe (0.50)",
+    "confidence": 0.5019743617313752,
+    "timestamp": 1756402527.6220853
+  },
+  {
+    "hostname": "github.githubassets.com",
+    "blocked": false,
+    "reason": "Background pattern: assets",
+    "confidence": 0.8419567563821951,
+    "timestamp": 1756402527.6704817
+  },
+  {
+    "hostname": "api.github.com",
+    "blocked": false,
+    "reason": "Background pattern: api",
+    "confidence": 0.7681770927575445,
+    "timestamp": 1756402534.7970767
+  }
+]

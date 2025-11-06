@@ -1,0 +1,226 @@
+[2025-08-26 21:57:12] AI system-wide blocker launched.
+[2025-08-26 21:57:13] Starting interceptor (requires Admin). Filter: outbound and (tcp.DstPort == 80 or tcp.DstPort == 443)
+[2025-08-26 21:57:14] Failed to open WinDivert handle. Ensure driver installed and run as Administrator. Error: [WinError 5] Access is denied.
+[2025-08-26 22:02:35] AI system-wide blocker launched.
+[2025-08-26 22:02:37] Starting interceptor (requires Admin). Filter: outbound and (tcp.DstPort == 80 or tcp.DstPort == 443)
+[2025-08-26 22:03:38] HARMFUL detected: login.live.com | Blocking and adding to hosts.
+[2025-08-26 22:03:38] Hosts updated: login.live.com -> 127.0.0.1
+[2025-08-26 22:03:39] HARMFUL detected: login.live.com | Blocking and adding to hosts.
+[2025-08-26 22:03:40] HARMFUL detected: login.live.com | Blocking and adding to hosts.
+[2025-08-26 22:03:42] HARMFUL detected: login.live.com | Blocking and adding to hosts.
+[2025-08-26 22:03:46] HARMFUL detected: login.live.com | Blocking and adding to hosts.
+[2025-08-26 22:03:55] HARMFUL detected: login.live.com | Blocking and adding to hosts.
+[2025-08-26 22:04:10] HARMFUL detected: login.live.com | Blocking and adding to hosts.
+[2025-08-26 22:04:11] HARMFUL detected: login.live.com | Blocking and adding to hosts.
+[2025-08-26 22:04:11] HARMFUL detected: login.live.com | Blocking and adding to hosts.
+[2025-08-26 22:04:12] HARMFUL detected: login.live.com | Blocking and adding to hosts.
+[2025-08-26 22:04:13] HARMFUL detected: login.live.com | Blocking and adding to hosts.
+[2025-08-26 22:04:14] HARMFUL detected: login.live.com | Blocking and adding to hosts.
+[2025-08-26 22:04:15] HARMFUL detected: login.live.com | Blocking and adding to hosts.
+[2025-08-26 22:04:15] HARMFUL detected: ppl-ai-file-upload.s3.amazonaws.com | Blocking and adding to hosts.
+[2025-08-26 22:04:15] Hosts updated: ppl-ai-file-upload.s3.amazonaws.com -> 127.0.0.1
+[2025-08-26 22:04:15] HARMFUL detected: login.live.com | Blocking and adding to hosts.
+[2025-08-26 22:04:15] HARMFUL detected: login.live.com | Blocking and adding to hosts.
+[2025-08-26 22:04:16] HARMFUL detected: login.live.com | Blocking and adding to hosts.
+[2025-08-26 22:04:16] HARMFUL detected: ppl-ai-file-upload.s3.amazonaws.com | Blocking and adding to hosts.
+[2025-08-26 22:04:17] HARMFUL detected: login.live.com | Blocking and adding to hosts.
+[2025-08-26 22:04:18] HARMFUL detected: ppl-ai-file-upload.s3.amazonaws.com | Blocking and adding to hosts.
+[2025-08-26 22:04:19] HARMFUL detected: login.live.com | Blocking and adding to hosts.
+[2025-08-26 22:04:20] HARMFUL detected: login.live.com | Blocking and adding to hosts.
+[2025-08-26 22:04:22] HARMFUL detected: ppl-ai-file-upload.s3.amazonaws.com | Blocking and adding to hosts.
+[2025-08-26 22:04:24] HARMFUL detected: login.live.com | Blocking and adding to hosts.
+[2025-08-26 22:04:29] HARMFUL detected: ppl-ai-file-upload.s3.amazonaws.com | Blocking and adding to hosts.
+[2025-08-26 22:04:32] HARMFUL detected: login.live.com | Blocking and adding to hosts.
+[2025-08-26 22:04:32] HARMFUL detected: login.live.com | Blocking and adding to hosts.
+[2025-08-26 22:04:32] HARMFUL detected: login.live.com | Blocking and adding to hosts.
+[2025-08-26 22:04:33] HARMFUL detected: login.live.com | Blocking and adding to hosts.
+[2025-08-26 22:04:34] HARMFUL detected: login.live.com | Blocking and adding to hosts.
+[2025-08-26 22:04:36] HARMFUL detected: login.live.com | Blocking and adding to hosts.
+[2025-08-26 22:04:41] HARMFUL detected: login.live.com | Blocking and adding to hosts.
+[2025-08-26 22:04:44] HARMFUL detected: ppl-ai-file-upload.s3.amazonaws.com | Blocking and adding to hosts.
+[2025-08-26 22:04:51] HARMFUL detected: login.live.com | Blocking and adding to hosts.
+[2025-08-26 22:04:51] HARMFUL detected: login.live.com | Blocking and adding to hosts.
+[2025-08-26 22:04:52] HARMFUL detected: login.live.com | Blocking and adding to hosts.
+[2025-08-26 22:04:52] HARMFUL detected: login.live.com | Blocking and adding to hosts.
+[2025-08-26 22:04:53] HARMFUL detected: login.live.com | Blocking and adding to hosts.
+[2025-08-26 22:04:56] HARMFUL detected: login.live.com | Blocking and adding to hosts.
+[2025-08-26 22:05:01] HARMFUL detected: login.live.com | Blocking and adding to hosts.
+[2025-08-26 22:05:33] HARMFUL detected: clientservices.googleapis.com | Blocking and adding to hosts.
+[2025-08-26 22:05:33] Hosts updated: clientservices.googleapis.com -> 127.0.0.1
+[2025-08-26 22:05:33] HARMFUL detected: clientservices.googleapis.com | Blocking and adding to hosts.
+[2025-08-26 22:05:33] HARMFUL detected: clientservices.googleapis.com | Blocking and adding to hosts.
+[2025-08-26 22:05:34] HARMFUL detected: clientservices.googleapis.com | Blocking and adding to hosts.
+[2025-08-26 22:05:35] HARMFUL detected: clientservices.googleapis.com | Blocking and adding to hosts.
+[2025-08-26 22:05:37] HARMFUL detected: clientservices.googleapis.com | Blocking and adding to hosts.
+[2025-08-26 22:05:42] HARMFUL detected: clientservices.googleapis.com | Blocking and adding to hosts.
+[2025-08-26 22:05:46] Stopped by user (KeyboardInterrupt).
+[2025-08-26 22:13:45] AI system-wide blocker launched.
+[2025-08-26 22:13:47] Starting interceptor (requires Admin). Filter: outbound and (tcp.DstPort == 80 or tcp.DstPort == 443)
+[2025-08-26 22:13:48] HARMFUL detected: wallet.now.gg | Blocking and adding to hosts.
+[2025-08-26 22:13:48] Hosts updated: wallet.now.gg -> 127.0.0.1
+[2025-08-26 22:13:48] HARMFUL detected: wallet.now.gg | Blocking and adding to hosts.
+[2025-08-26 22:13:48] HARMFUL detected: wallet.now.gg | Blocking and adding to hosts.
+[2025-08-26 22:13:49] HARMFUL detected: wallet.now.gg | Blocking and adding to hosts.
+[2025-08-26 22:13:50] HARMFUL detected: wallet.now.gg | Blocking and adding to hosts.
+[2025-08-26 22:13:51] HARMFUL detected: wallet.now.gg | Blocking and adding to hosts.
+[2025-08-26 22:13:52] HARMFUL detected: wallet.now.gg | Blocking and adding to hosts.
+[2025-08-26 22:13:55] HARMFUL detected: wallet.now.gg | Blocking and adding to hosts.
+[2025-08-26 22:14:00] HARMFUL detected: wallet.now.gg | Blocking and adding to hosts.
+[2025-08-26 22:14:11] HARMFUL detected: onedrive.live.com | Blocking and adding to hosts.
+[2025-08-26 22:14:11] Hosts updated: onedrive.live.com -> 127.0.0.1
+[2025-08-26 22:14:11] HARMFUL detected: onedrive.live.com | Blocking and adding to hosts.
+[2025-08-26 22:14:11] HARMFUL detected: onedrive.live.com | Blocking and adding to hosts.
+[2025-08-26 22:14:12] HARMFUL detected: onedrive.live.com | Blocking and adding to hosts.
+[2025-08-26 22:14:13] HARMFUL detected: onedrive.live.com | Blocking and adding to hosts.
+[2025-08-26 22:14:14] HARMFUL detected: config.teams.microsoft.com | Blocking and adding to hosts.
+[2025-08-26 22:14:14] Hosts updated: config.teams.microsoft.com -> 127.0.0.1
+[2025-08-26 22:14:14] HARMFUL detected: onedrive.live.com | Blocking and adding to hosts.
+[2025-08-26 22:14:14] HARMFUL detected: config.teams.microsoft.com | Blocking and adding to hosts.
+[2025-08-26 22:14:15] HARMFUL detected: config.teams.microsoft.com | Blocking and adding to hosts.
+[2025-08-26 22:14:15] HARMFUL detected: config.teams.microsoft.com | Blocking and adding to hosts.
+[2025-08-26 22:14:16] HARMFUL detected: onedrive.live.com | Blocking and adding to hosts.
+[2025-08-26 22:14:17] HARMFUL detected: config.teams.microsoft.com | Blocking and adding to hosts.
+[2025-08-26 22:14:18] HARMFUL detected: onedrive.live.com | Blocking and adding to hosts.
+[2025-08-26 22:14:19] HARMFUL detected: config.teams.microsoft.com | Blocking and adding to hosts.
+[2025-08-26 22:14:23] HARMFUL detected: onedrive.live.com | Blocking and adding to hosts.
+[2025-08-26 22:14:24] HARMFUL detected: config.teams.microsoft.com | Blocking and adding to hosts.
+[2025-08-26 22:14:41] HARMFUL detected: config.teams.microsoft.com | Blocking and adding to hosts.
+[2025-08-26 22:14:42] HARMFUL detected: config.teams.microsoft.com | Blocking and adding to hosts.
+[2025-08-26 22:14:42] HARMFUL detected: config.teams.microsoft.com | Blocking and adding to hosts.
+[2025-08-26 22:14:43] HARMFUL detected: config.teams.microsoft.com | Blocking and adding to hosts.
+[2025-08-26 22:14:44] HARMFUL detected: config.teams.microsoft.com | Blocking and adding to hosts.
+[2025-08-26 22:14:46] HARMFUL detected: config.teams.microsoft.com | Blocking and adding to hosts.
+[2025-08-26 22:14:51] HARMFUL detected: config.teams.microsoft.com | Blocking and adding to hosts.
+[2025-08-26 22:15:04] HARMFUL detected: ogads-pa.clients6.google.com | Blocking and adding to hosts.
+[2025-08-26 22:15:04] Hosts updated: ogads-pa.clients6.google.com -> 127.0.0.1
+[2025-08-26 22:15:04] HARMFUL detected: ogads-pa.clients6.google.com | Blocking and adding to hosts.
+[2025-08-26 22:15:05] HARMFUL detected: ogads-pa.clients6.google.com | Blocking and adding to hosts.
+[2025-08-26 22:15:05] HARMFUL detected: ogads-pa.clients6.google.com | Blocking and adding to hosts.
+[2025-08-26 22:15:06] HARMFUL detected: ogads-pa.clients6.google.com | Blocking and adding to hosts.
+[2025-08-26 22:15:09] HARMFUL detected: ogads-pa.clients6.google.com | Blocking and adding to hosts.
+[2025-08-26 22:15:14] HARMFUL detected: ogads-pa.clients6.google.com | Blocking and adding to hosts.
+[2025-08-26 22:15:24] Stopped by user (KeyboardInterrupt).
+[2025-08-28 19:35:35] AI System Blocker launched.
+[2025-08-28 19:35:40] Starting Simple Blocker...
+[2025-08-28 19:36:39] AI System Blocker launched.
+[2025-08-28 19:36:43] Starting Simple Blocker...
+[2025-08-28 19:40:20] Stopped by user (KeyboardInterrupt).
+[2025-08-28 19:40:36] AI System Blocker launched.
+[2025-08-28 19:40:41] Starting Click-Based Blocker...
+[2025-08-28 19:40:42] Starting Click-Based Web Blocker...
+[2025-08-28 19:40:42] This will only process URLs when you click them.
+[2025-08-28 19:41:05] 🚫 HARMFUL CLICK DETECTED: login.live.com - BLOCKED
+[2025-08-28 19:41:05] Hosts updated: login.live.com -> 127.0.0.1
+[2025-08-28 19:41:05] ✅ SAFE CLICK: ws.chatgpt.com - ALLOWED
+[2025-08-28 19:41:05] 🚫 HARMFUL CLICK DETECTED: login.live.com - BLOCKED
+[2025-08-28 19:41:05] ✅ SAFE CLICK: www.googleapis.com - ALLOWED
+[2025-08-28 19:41:05] ✅ SAFE CLICK: play.googleapis.com - ALLOWED
+[2025-08-28 19:41:05] 🚫 HARMFUL CLICK DETECTED: login.live.com - BLOCKED
+[2025-08-28 19:41:06] 🚫 HARMFUL CLICK DETECTED: login.live.com - BLOCKED
+[2025-08-28 19:41:07] 🚫 HARMFUL CLICK DETECTED: login.live.com - BLOCKED
+[2025-08-28 19:41:08] ✅ SAFE CLICK: watson.events.data.microsoft.com - ALLOWED
+[2025-08-28 19:41:09] 🚫 HARMFUL CLICK DETECTED: login.live.com - BLOCKED
+[2025-08-28 19:41:14] 🚫 HARMFUL CLICK DETECTED: login.live.com - BLOCKED
+[2025-08-28 19:41:46] Stopped by user (KeyboardInterrupt).
+[2025-08-28 19:47:21] AI System Blocker launched.
+[2025-08-28 19:47:24] Running model test...
+[2025-08-28 19:47:37] Starting Simple Blocker...
+[2025-08-28 19:48:51] Stopped by user (KeyboardInterrupt).
+[2025-08-28 19:56:51] AI System Blocker launched.
+[2025-08-28 19:56:55] Starting Simple Blocker...
+[2025-08-28 19:57:21] Stopped by user (KeyboardInterrupt).
+[2025-08-28 19:57:33] AI System Blocker launched.
+[2025-08-28 19:57:40] Starting Click-Based Blocker...
+[2025-08-28 19:57:41] Starting Click-Based Web Blocker...
+[2025-08-28 19:57:41] This will only process URLs when you click them.
+[2025-08-28 19:59:26] Stopped by user (KeyboardInterrupt).
+[2025-08-28 20:03:48] AI System Blocker launched.
+[2025-08-28 20:03:54] Starting Simple Blocker...
+[2025-08-28 20:04:11] Stopped by user (KeyboardInterrupt).
+[2025-08-28 20:04:24] AI System Blocker launched.
+[2025-08-28 20:04:27] Starting Click-Based Blocker...
+[2025-08-28 20:04:28] Starting Click-Based Web Blocker...
+[2025-08-28 20:04:28] This will only process URLs when you click them.
+[2025-08-28 20:04:28] ✅ SAFE CLICK: rr3---sn-h5576n7r.googlevideo.com - ALLOWED
+[2025-08-28 20:04:43] ✅ SAFE CLICK: youtube.com - ALLOWED
+[2025-08-28 20:04:43] ✅ SAFE CLICK: fonts.googleapis.com - ALLOWED
+[2025-08-28 20:04:45] ✅ SAFE CLICK: www.msftconnecttest.com - ALLOWED
+[2025-08-28 20:04:46] ✅ SAFE CLICK: accounts.youtube.com - ALLOWED
+[2025-08-28 20:04:46] ✅ SAFE CLICK: rr1---sn-5hne6nsz.googlevideo.com - ALLOWED
+[2025-08-28 20:04:47] ✅ SAFE CLICK: rr1---sn-5hne6nsz.googlevideo.com - ALLOWED
+[2025-08-28 20:05:03] Stopped by user (KeyboardInterrupt).
+[2025-08-28 20:16:07] AI System Blocker launched.
+[2025-08-28 20:16:10] Starting Simple Blocker...
+[2025-08-28 20:19:19] AI System Blocker launched.
+[2025-08-28 20:19:22] Starting Simple Blocker...
+[2025-08-28 20:28:16] AI System Blocker launched.
+[2025-08-28 20:28:19] Starting Simple Blocker...
+[2025-08-28 21:50:22] \u2705 Logger import successful
+[2025-08-28 21:50:40] AI System Blocker launched.
+[2025-08-28 21:50:44] Failed to import click_blocker: cannot import name 'VECT_PATH' from 'config' (D:\AI web blocker\ai_blocker\config.py)
+[2025-08-28 21:52:00] AI System Blocker launched.
+[2025-08-28 21:52:02] Starting Simple Blocker...
+[2025-08-28 21:54:20] AI System Blocker launched.
+[2025-08-28 22:46:42] AI System Blocker launched.
+[2025-08-28 22:46:45] Failed to import click_blocker: cannot import name 'VECT_PATH' from 'config' (D:\AI web blocker\ai_blocker\config.py)
+[2025-08-28 22:57:52] Model loaded successfully
+[2025-08-28 22:57:52] Vectorizer loaded successfully
+[2025-08-28 22:58:37] Enhanced AI System Blocker launched.
+[2025-08-28 22:58:53] Starting Simple Blocker...
+[2025-08-28 22:58:56] Model loaded successfully
+[2025-08-28 22:58:56] Vectorizer loaded successfully
+[2025-08-28 22:59:52] Enhanced AI System Blocker launched.
+[2025-08-28 22:59:56] Starting Enhanced Click-Based Blocker...
+[2025-08-28 22:59:58] Model loaded successfully
+[2025-08-28 22:59:58] Vectorizer loaded successfully
+[2025-08-28 22:59:58] Error: cannot access local variable 'HAS_ENHANCED_FEATURES' where it is not associated with a value
+[2025-08-28 23:03:07] Enhanced AI System Blocker launched.
+[2025-08-28 23:03:12] Starting Enhanced Click-Based Blocker...
+[2025-08-28 23:03:14] Model loaded successfully
+[2025-08-28 23:03:14] Vectorizer loaded successfully
+[2025-08-28 23:03:14] Model loaded successfully
+[2025-08-28 23:03:14] Vectorizer loaded successfully
+[2025-08-28 23:03:14] \u2705 Enhanced features enabled: False positive prevention, confidence scoring
+[2025-08-28 23:03:14] \U0001f6e1\ufe0f Starting Enhanced Click-Based Blocker...
+[2025-08-28 23:03:14] \u2705 Features: False positive prevention, confidence scoring, easy unblocking
+[2025-08-28 23:03:39] \U0001f504 Session reset - ready for new clicks
+[2025-08-28 23:03:39] \u2705 ALLOWED: main.vscode-cdn.net | Confidence: 0.81 | Reason: Background pattern: cdn
+[2025-08-28 23:03:42] \u2705 ALLOWED: edge.microsoft.com | Confidence: 0.81 | Reason: Subdomain of microsoft.com
+[2025-08-28 23:03:45] \u2705 ALLOWED: lh3.googleusercontent.com | Confidence: 0.90 | Reason: Low confidence or safe (0.90)
+[2025-08-28 23:03:46] \u2705 ALLOWED: accounts.google.com | Confidence: 0.84 | Reason: Subdomain of google.com
+[2025-08-28 23:03:49] \u2705 ALLOWED: ssl.gstatic.com | Confidence: 0.92 | Reason: Subdomain of gstatic.com
+[2025-08-28 23:03:53] \u2705 ALLOWED: ntp.msn.com | Confidence: 0.90 | Reason: Low confidence or safe (0.90)
+[2025-08-28 23:03:54] \U0001f504 Session reset - ready for new clicks
+[2025-08-28 23:03:54] \u2705 ALLOWED: bing.com | Confidence: 0.90 | Reason: Low confidence or safe (0.90)
+[2025-08-28 23:03:54] \u2705 ALLOWED: c.msn.com | Confidence: 0.92 | Reason: Low confidence or safe (0.92)
+[2025-08-28 23:03:54] \u2705 ALLOWED: img-s-msn-com.akamaized.net | Confidence: 0.58 | Reason: Low confidence or safe (0.58)
+[2025-08-28 23:04:12] \U0001f504 Session reset - ready for new clicks
+[2025-08-28 23:04:12] \u2705 ALLOWED: edge-consumer-static.azureedge.net | Confidence: 0.67 | Reason: Background pattern: static
+[2025-08-28 23:04:14] \u2705 ALLOWED: edge.microsoft.com | Confidence: 0.81 | Reason: Subdomain of microsoft.com
+[2025-08-28 23:04:39] \U0001f504 Session reset - ready for new clicks
+[2025-08-28 23:04:39] \u2705 ALLOWED: fonts.gstatic.com | Confidence: 0.93 | Reason: System whitelist
+[2025-08-28 23:04:42] \u2705 ALLOWED: edge.microsoft.com | Confidence: 0.81 | Reason: Subdomain of microsoft.com
+[2025-08-28 23:04:43] \u2705 ALLOWED: youtube.com | Confidence: 0.94 | Reason: System whitelist
+[2025-08-28 23:04:46] \u2705 ALLOWED: rr3---sn-q4fl6nds.googlevideo.com | Confidence: 0.92 | Reason: Subdomain of googlevideo.com
+[2025-08-28 23:04:46] \u2705 ALLOWED: google.com | Confidence: 0.98 | Reason: System whitelist
+[2025-08-28 23:04:47] \u2705 ALLOWED: google.co.in | Confidence: 0.93 | Reason: Low confidence or safe (0.93)
+[2025-08-28 23:05:19] \U0001f504 Session reset - ready for new clicks
+[2025-08-28 23:05:19] \u2705 ALLOWED: mobile.events.data.microsoft.com | Confidence: 0.67 | Reason: Subdomain of microsoft.com
+[2025-08-28 23:05:27] \u2705 ALLOWED: github.com | Confidence: 0.50 | Reason: Low confidence or safe (0.50)
+[2025-08-28 23:05:27] \u2705 ALLOWED: github.githubassets.com | Confidence: 0.84 | Reason: Background pattern: assets
+[2025-08-28 23:05:34] \U0001f504 Session reset - ready for new clicks
+[2025-08-28 23:05:34] \u2705 ALLOWED: api.github.com | Confidence: 0.77 | Reason: Background pattern: api
+[2025-08-28 23:06:07] Stopped by user (KeyboardInterrupt).
+[2025-08-30 15:35:23] Enhanced AI System Blocker launched.
+[2025-08-30 15:35:37] Starting Simple Blocker...
+[2025-08-30 15:35:59] Model loaded successfully
+[2025-08-30 15:36:00] Vectorizer loaded successfully
+[2025-09-10 20:27:40] Enhanced AI System Blocker launched.
+[2025-09-10 20:27:59] Running model test...
+[2025-09-10 20:28:18] Model loaded successfully
+[2025-09-10 20:28:18] Vectorizer loaded successfully
+[2025-09-10 20:31:17] Starting Simple Blocker...
+[2025-09-10 20:31:17] Model loaded successfully
+[2025-09-10 20:31:17] Vectorizer loaded successfully
+[2025-11-05 14:02:20] Enhanced AI System Blocker launched.
+[2025-11-05 14:34:35] Stopped by user (KeyboardInterrupt).
