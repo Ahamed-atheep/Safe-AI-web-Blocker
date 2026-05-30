@@ -145,5 +145,138 @@
     "reason": "Background pattern: api",
     "confidence": 0.7681770927575445,
     "timestamp": 1756402534.7970767
+  },
+  {
+    "hostname": "googleapis.com",
+    "blocked": false,
+    "reason": "Allowed: Exact whitelist match",
+    "confidence": 0.810905938513646,
+    "timestamp": 1780149365.0188508
+  },
+  {
+    "hostname": "lh3.googleusercontent.com",
+    "blocked": false,
+    "reason": "Allowed: Low risk domain (0.90)",
+    "confidence": 0.899198860230872,
+    "timestamp": 1780149365.425269
+  },
+  {
+    "hostname": "substrate.office.com",
+    "blocked": false,
+    "reason": "Allowed: Low risk domain (0.71)",
+    "confidence": 0.706151007993858,
+    "timestamp": 1780149366.718144
+  },
+  {
+    "hostname": "settings-win.data.microsoft.com",
+    "blocked": false,
+    "reason": "Allowed: Subdomain match of whitelisted 'microsoft.com'",
+    "confidence": 0.7702033041948086,
+    "timestamp": 1780149377.4070637
+  },
+  {
+    "hostname": "catalog.gamepass.com",
+    "blocked": false,
+    "reason": "Allowed: Low risk domain (0.86)",
+    "confidence": 0.8635693717076065,
+    "timestamp": 1780149381.1963067
+  },
+  {
+    "hostname": "login.live.com",
+    "blocked": false,
+    "reason": "Allowed: Exact whitelist match",
+    "confidence": 0.6599300408872655,
+    "timestamp": 1780149413.3486187
+  },
+  {
+    "hostname": "displaycatalog.mp.microsoft.com",
+    "blocked": false,
+    "reason": "Allowed: Subdomain match of whitelisted 'microsoft.com'",
+    "confidence": 0.7258018596692959,
+    "timestamp": 1780149414.3464856
+  },
+  {
+    "hostname": "substrate.office.com",
+    "blocked": false,
+    "reason": "Allowed: Low risk domain (0.71)",
+    "confidence": 0.706151007993858,
+    "timestamp": 1780149414.4964995
+  },
+  {
+    "hostname": "static.whatsapp.net",
+    "blocked": false,
+    "reason": "Allowed background process: Matched background pattern: 'static'",
+    "confidence": 0.7336126480503642,
+    "timestamp": 1780149415.1375117
+  },
+  {
+    "hostname": "media-maa3-1.cdn.whatsapp.net",
+    "blocked": false,
+    "reason": "Allowed background process: Matched background pattern: 'cdn'",
+    "confidence": 0.5247439675386717,
+    "timestamp": 1780149444.0699866
+  },
+  {
+    "hostname": "configuration-server-lb-1105093370.us-east-1.elb.amazonaws.com",
+    "blocked": false,
+    "reason": "Allowed: Subdomain match of whitelisted 'amazonaws.com'",
+    "confidence": 0.9240983300811012,
+    "timestamp": 1780149445.145347
+  },
+  {
+    "hostname": "nav-edge.smartscreen.microsoft.com",
+    "blocked": false,
+    "reason": "Allowed: Subdomain match of whitelisted 'microsoft.com'",
+    "confidence": 0.6857726493061311,
+    "timestamp": 1780149469.391504
+  },
+  {
+    "hostname": "malicious-site.com",
+    "blocked": true,
+    "reason": "Blocked: Low confidence harmful (0.67) elevated by heuristics [Suspicious subwords: ['malicious']]",
+    "confidence": 0.6660633973081518,
+    "timestamp": 1780149469.5721674
+  },
+  {
+    "hostname": "assets.airtel.in",
+    "blocked": false,
+    "reason": "Allowed background process: Matched background pattern: 'assets'",
+    "confidence": 0.6055240854395336,
+    "timestamp": 1780149473.2995124
+  },
+  {
+    "hostname": "x1.c.lencr.org",
+    "blocked": false,
+    "reason": "Allowed: Low risk domain (0.89)",
+    "confidence": 0.8886251238541161,
+    "timestamp": 1780149475.1937535
+  },
+  {
+    "hostname": "crl3.digicert.com",
+    "blocked": false,
+    "reason": "Allowed: Low risk domain (0.66)",
+    "confidence": 0.6610553158894039,
+    "timestamp": 1780149475.3683033
+  },
+  {
+    "hostname": "c.pki.goog",
+    "blocked": false,
+    "reason": "Allowed: Low risk domain (0.74)",
+    "confidence": 0.7395211938442225,
+    "timestamp": 1780149475.4807777
+  },
+  {
+    "hostname": "us1.api.ws-hp.com",
+    "blocked": false,
+    "reason": "Allowed background process: Matched background pattern: 'api'",
+    "confidence": 0.5535629631401047,
+    "timestamp": 1780149482.8824844
+  },
+  {
+    "hostname": "daily-cloudcode-pa.googleapis.com",
+    "blocked": false,
+    "reason": "Allowed: Subdomain match of whitelisted 'googleapis.com'",
+    "confidence": 0.7678496040220488,
+    "timestamp": 1780149516.3688676
   }
 ]

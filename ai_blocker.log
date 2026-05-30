@@ -224,3 +224,45 @@
 [2025-09-10 20:31:17] Vectorizer loaded successfully
 [2025-11-05 14:02:20] Enhanced AI System Blocker launched.
 [2025-11-05 14:34:35] Stopped by user (KeyboardInterrupt).
+[2026-05-30 19:04:31] Model loaded successfully
+[2026-05-30 19:04:31] Vectorizer loaded successfully
+[2026-05-30 19:15:35] Model loaded successfully
+[2026-05-30 19:15:35] Vectorizer loaded successfully
+[2026-05-30 19:25:28] Enhanced AI System Blocker launched.
+[2026-05-30 19:25:37] Running model test...
+[2026-05-30 19:25:41] Model loaded successfully
+[2026-05-30 19:25:41] Vectorizer loaded successfully
+[2026-05-30 19:25:53] Starting Enhanced Click-Based Blocker...
+[2026-05-30 19:25:53] Model loaded successfully
+[2026-05-30 19:25:53] Vectorizer loaded successfully
+[2026-05-30 19:25:53] Model loaded successfully
+[2026-05-30 19:25:54] Vectorizer loaded successfully
+[2026-05-30 19:25:54] \u2705 Enhanced features enabled: False positive prevention, confidence scoring
+[2026-05-30 19:25:54] \U0001f6e1\ufe0f Starting Enhanced Click-Based Blocker...
+[2026-05-30 19:25:54] \u2705 Features: False positive prevention, confidence scoring, easy unblocking
+[2026-05-30 19:26:05] \u2705 ALLOWED: googleapis.com | Confidence: 0.81 | Reason: Allowed: Exact whitelist match
+[2026-05-30 19:26:05] \u2705 ALLOWED: lh3.googleusercontent.com | Confidence: 0.90 | Reason: Allowed: Low risk domain (0.90)
+[2026-05-30 19:26:06] \u2705 ALLOWED: substrate.office.com | Confidence: 0.71 | Reason: Allowed: Low risk domain (0.71)
+[2026-05-30 19:26:17] \U0001f504 Session reset - ready for new clicks
+[2026-05-30 19:26:17] \u2705 ALLOWED: settings-win.data.microsoft.com | Confidence: 0.77 | Reason: Allowed: Subdomain match of whitelisted 'microsoft.com'
+[2026-05-30 19:26:21] \u2705 ALLOWED: catalog.gamepass.com | Confidence: 0.86 | Reason: Allowed: Low risk domain (0.86)
+[2026-05-30 19:26:53] \U0001f504 Session reset - ready for new clicks
+[2026-05-30 19:26:53] \u2705 ALLOWED: login.live.com | Confidence: 0.66 | Reason: Allowed: Exact whitelist match
+[2026-05-30 19:26:54] \u2705 ALLOWED: displaycatalog.mp.microsoft.com | Confidence: 0.73 | Reason: Allowed: Subdomain match of whitelisted 'microsoft.com'
+[2026-05-30 19:26:54] \u2705 ALLOWED: substrate.office.com | Confidence: 0.71 | Reason: Allowed: Low risk domain (0.71)
+[2026-05-30 19:26:55] \u2705 ALLOWED: static.whatsapp.net | Confidence: 0.73 | Reason: Allowed background process: Matched background pattern: 'static'
+[2026-05-30 19:27:24] \U0001f504 Session reset - ready for new clicks
+[2026-05-30 19:27:24] \u2705 ALLOWED: media-maa3-1.cdn.whatsapp.net | Confidence: 0.52 | Reason: Allowed background process: Matched background pattern: 'cdn'
+[2026-05-30 19:27:25] \u2705 ALLOWED: configuration-server-lb-1105093370.us-east-1.elb.amazonaws.com | Confidence: 0.92 | Reason: Allowed: Subdomain match of whitelisted 'amazonaws.com'
+[2026-05-30 19:27:49] \U0001f504 Session reset - ready for new clicks
+[2026-05-30 19:27:49] \u2705 ALLOWED: nav-edge.smartscreen.microsoft.com | Confidence: 0.69 | Reason: Allowed: Subdomain match of whitelisted 'microsoft.com'
+[2026-05-30 19:27:49] \U0001f6ab BLOCKED: malicious-site.com | Confidence: 0.67 | Reason: Blocked: Low confidence harmful (0.67) elevated by heuristics [Suspicious subwords: ['malicious']]
+[2026-05-30 19:27:49] Hosts updated: malicious-site.com -> 127.0.0.1
+[2026-05-30 19:27:53] \u2705 ALLOWED: assets.airtel.in | Confidence: 0.61 | Reason: Allowed background process: Matched background pattern: 'assets'
+[2026-05-30 19:27:55] \u2705 ALLOWED: x1.c.lencr.org | Confidence: 0.89 | Reason: Allowed: Low risk domain (0.89)
+[2026-05-30 19:27:55] \u2705 ALLOWED: crl3.digicert.com | Confidence: 0.66 | Reason: Allowed: Low risk domain (0.66)
+[2026-05-30 19:27:55] \u2705 ALLOWED: c.pki.goog | Confidence: 0.74 | Reason: Allowed: Low risk domain (0.74)
+[2026-05-30 19:28:02] \u2705 ALLOWED: us1.api.ws-hp.com | Confidence: 0.55 | Reason: Allowed background process: Matched background pattern: 'api'
+[2026-05-30 19:28:36] \U0001f504 Session reset - ready for new clicks
+[2026-05-30 19:28:36] \u2705 ALLOWED: daily-cloudcode-pa.googleapis.com | Confidence: 0.77 | Reason: Allowed: Subdomain match of whitelisted 'googleapis.com'
+[2026-05-30 19:28:42] Stopped by user (KeyboardInterrupt).
